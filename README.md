@@ -1,3 +1,3 @@
 # GoogleCollabNotebooks
 
-- Created Repo for Google Colab Notebooks
+- Created Repo for my personal Google Colab Notebooks
